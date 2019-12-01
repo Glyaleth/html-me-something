@@ -2,7 +2,9 @@ body{
   width: 100%;
   margin: 0 auto;
   font-size: 62.5%;
-  background-color: #E4C7FB;
+  background-color: #e8ecf0;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #333;
 }
 header,
 main,
